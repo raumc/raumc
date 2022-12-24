@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ruchi...
 - 👀 I’m interested in UI
 - 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on UI Development using React JS
 - 📫 How to reach me JAINRUCHI800@gmail.com
 
 <!---
